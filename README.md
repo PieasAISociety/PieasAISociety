@@ -1,148 +1,97 @@
-<!-- ========================================================= -->
-<!--                      PIEAS AI SOCIETY                     -->
-<!--                  DARK + NEON + GLASS EDITION             -->
-<!-- ========================================================= -->
-
-<!-- LOGO -->
+<!-- Typing SVG -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PieasAISociety/pieas-ai-society/main/assets/PAIS%20C.png" width="260" alt="PIEAS AI Society Logo">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00E5FF&center=true&vCenter=true&width=600&lines=PIEAS+AI+Society;Empowering+Future+AI+Leaders;Innovate.+Inspire.+Impact." alt="Typing SVG">
 </p>
 
-<h1 align="center">🤖 PIEAS AI Society</h1>
-
+<!-- Logo -->
 <p align="center">
-  <b>Innovating. Creating. Leading the Future of AI at PIEAS.</b>
+  <img src="https://raw.githubusercontent.com/PieasAISociety/PieasAISociety/main/assets/PAIS%20C.png" width="200" />
 </p>
 
----
+<h1 align="center">🚀 PIEAS AI Society</h1>
 
-<!-- ANIMATED NEON WAVES -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PieasAISociety/pieas-ai-society/main/assets/neon-waves.svg" width="100%">
+  <i>Advancing AI literacy, innovation, and community at PIEAS</i>
 </p>
 
 ---
 
-# 🌟 About Us
+## 🌌 Glassmorphism Banner
 
 <div align="center">
-  <div style="padding: 18px; border-radius: 18px; backdrop-filter: blur(12px); background: rgba(255,255,255,0.08); border: 1px solid rgba(255,255,255,0.15); width: 80%; box-shadow: 0 0 22px rgba(0, 200, 255, 0.35);">
-    PIEAS AI Society is a student-driven community dedicated to learning, exploring, and advancing Artificial Intelligence.
-  </div>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0F2027&height=120&section=header&text=Welcome%20to%20PAIS&fontSize=40&fontColor=00E5FF&animation=fadeIn" />
 </div>
-
-<br>
-
-We aim to:
-
-- 🔍 Explore **ML, DL, Data Science & Computer Vision**
-- 🧠 Conduct **workshops, bootcamps, competitions**
-- ⚡ Build **AI-powered practical projects**
-- 🎯 Develop a culture of **innovation & research**
 
 ---
 
-# 🛠️ What We Do
+## 🧠 What We Do
+<div align="center">
+
+| 🌟 Domain | 🚀 Activities |
+|----------|---------------|
+| **Workshops** | AI/ML, DL, Python, Computer Vision |
+| **Competitions** | Hackathons • Kaggle challenges |
+| **Research** | Student-led research clusters |
+| **Community** | Tech meetups, mentorship circles |
+
+</div>
+
+---
+
+## 🔥 Tech Stack & Tools We Work With
 
 <div align="center">
 
-<table>
-<tr>
-<td width="33%">
-<div align="center" style="padding: 18px; border-radius: 16px; backdrop-filter: blur(10px); background: rgba(255,255,255,0.07); border: 1px solid rgba(255,255,255,0.2); box-shadow: 0 0 16px rgba(0, 255, 255, 0.25);">
-  
-### 🔹 Workshops  
-Learn AI hands-on through practical sessions.
-
-</div>
-</td>
-
-<td width="33%">
-<div align="center" style="padding: 18px; border-radius: 16px; backdrop-filter: blur(10px); background: rgba(255,255,255,0.07); border: 1px solid rgba(255,255,255,0.2); box-shadow: 0 0 16px rgba(255, 0, 255, 0.25);">
-
-### 🔹 Projects  
-Solve real-world problems through AI.
-
-</div>
-</td>
-
-<td width="33%">
-<div align="center" style="padding: 18px; border-radius: 16px; backdrop-filter: blur(10px); background: rgba(255,255,255,0.07); border: 1px solid rgba(255,255,255,0.2); box-shadow: 0 0 16px rgba(255, 130, 0, 0.25);">
-
-### 🔹 Mentorship  
-Guided learning from seniors & peers.
-
-</div>
-</td>
-</tr>
-</table>
+![Python](https://img.shields.io/badge/Python-0f2027?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-ff5722?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-ff9800?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-673ab7?style=for-the-badge&logo=opencv&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-ffd54f?style=for-the-badge&logo=huggingface&logoColor=black)
 
 </div>
 
 ---
 
-# 🧩 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,git,github,opencv,linux,fastapi,vscode&perline=6" />
-</p>
-
----
-
-# 📂 Featured Projects
+## 🎉 Follow Us
 
 <div align="center">
 
-<table>
-<tr>
-<th>Project</th><th>Description</th><th>Status</th>
-</tr>
+<a href="https://www.instagram.com/pieas.ai.society">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
 
-<tr>
-<td>🎭 Emotion Recognition</td>
-<td>Classifying facial expressions using CNNs</td>
-<td>🔄 In Progress</td>
-</tr>
-
-<tr>
-<td>🩺 AI Radiology</td>
-<td>Chest X-ray diagnosis model</td>
-<td>📌 Planned</td>
-</tr>
-
-<tr>
-<td>🤖 PIEAS Chatbot</td>
-<td>Smart conversational assistant</td>
-<td>✅ Completed</td>
-</tr>
-
-</table>
+<a href="https://www.linkedin.com/in/pieas.ai.society">
+  <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
 </div>
 
 ---
 
-# 🌐 Connect With Us
+## ✨ Contribution Guidelines
+We welcome:
 
-<p align="center">
-  <a href="https://www.instagram.com/pieas.ai.society">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/pieas.ai.society">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p>
+- 🧠 AI/ML projects  
+- 📝 Tutorials & guides  
+- 🛠️ Tools, utilities, datasets  
+- 🤝 Collaborations
 
----
-
-# 💼 Join Us
-
-We welcome all PIEAS students — beginners or experienced — who want to explore AI.
-
-👉 **Stay tuned for orientations, recruitments, and events!**
+Fork → Improve → PR → Get featured ✨
 
 ---
 
-<p align="center">
-  Made with ❤️ by PIEAS AI Society  
-</p>
+## 🌙 Aesthetic Glassmorphism Footer
+
+<div align="center" style="
+    padding: 20px;
+    backdrop-filter: blur(10px);
+    border-radius: 20px;
+    border: 1px solid rgba(255,255,255,0.15);
+    background: rgba(255,255,255,0.05);
+    width: 80%;
+    margin: auto;">
+    
+  <h3>💡 PIEAS AI Society — Innovate. Inspire. Impact.</h3>
+  <p>Made with ❤️ by the PAIS Tech Team</p>
+
+</div>
